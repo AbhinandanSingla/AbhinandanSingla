@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandansingla" alt="abhinandansingla" /></a> </p>
 
-[comment]: <> (<p align="left"> <a href="https://twitter.com/@abhinan48775956" target="blank"><img src="https://img.shields.io/twitter/follow/@abhinan48775956?logo=twitter&style=for-the-badge" alt="@abhinan48775956" /></a> </p>)
-
 - 🔭 I’m currently working on **blender**
 
 - 🌱 I’m currently learning **3d Modeling and Animation**
@@ -20,6 +18,10 @@
 - 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation.**
 
 - 📫 How to reach me **abhinandansingla48@gmail.com**
+
+- 📄 Know about my experiences I am a selftaught developer [www.kjnjskdfs.com](www.kjnjskdfs.com)
+
+- ⚡ Fun fact **learning how to code is slowly becoming like learning how to write.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
