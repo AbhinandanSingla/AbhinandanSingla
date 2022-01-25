@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhinandansingla48@gmail.com**
 
-- 📄 Know about my experiences I am a selftaught developer [www.kjnjskdfs.com](www.kjnjskdfs.com)
+- 📄 Know about my experiences I am a selftaught developer [https://github.com/AbhinandanSingla/AbhinandanSingla/blob/master/assets/resumes/Resume.pdf](https://github.com/AbhinandanSingla/AbhinandanSingla/blob/master/assets/resumes/Resume.pdf)
 
 - ⚡ Fun fact **learning how to code is slowly becoming like learning how to write.**
 
