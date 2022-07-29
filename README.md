@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandansingla&show_icons=true&locale=en" alt="abhinandansingla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandansingla&" alt="abhinandansingla" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinandansingla&theme=dark)](https://git.io/streak-stats)
