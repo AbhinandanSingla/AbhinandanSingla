@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Singla</h1>
-<h3 align="center">A passionate full stack developer from India, With interests in gamedev, animation and 3d modelling xD</h3>
+<h3 align="center">A passionate full stack developer  from India, With interests in gamedev, animation and 3d modelling xD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandansingla&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandansingla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandansingla" alt="abhinandansingla" /></a> </p>
 
-- 🔭 I’m currently working on **blender**
+- 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **3d Modeling and Animation**
+- 🌱 I’m currently learning **Ethereum and IC**
 
 - 👯 I’m looking to collaborate on **any great idea!**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://abhinandanpersonalportfolio.herokuapp.com/](https://abhinandanpersonalportfolio.herokuapp.com/)
 
-- 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation.**
+- 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation ,Blockchain.**
 
 - 📫 How to reach me **abhinandansingla48@gmail.com**
 
-- 📄 Know about my experiences I am a selftaught developer [https://github.com/AbhinandanSingla/AbhinandanSingla/blob/master/assets/resumes/Resume.pdf](https://github.com/AbhinandanSingla/AbhinandanSingla/blob/master/assets/resumes/Resume.pdf)
+- 📄 Know about my experiences I am a selftaught developer
 
 - ⚡ Fun fact **learning how to code is slowly becoming like learning how to write.**
 
@@ -36,5 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinandansingla&show_icons=true&locale=en&layout=compact" alt="abhinandansingla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandansingla&show_icons=true&locale=en" alt="abhinandansingla" /></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinandansingla&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinandansingla&" alt="abhinandansingla" /></p>
