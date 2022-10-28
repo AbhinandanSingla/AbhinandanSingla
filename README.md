@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help **to design UI,UX for my projects**
 
-- 👨‍💻 All of my projects are available at [https://abhinandanpersonalportfolio.herokuapp.com/](https://abhinandanpersonalportfolio.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://abhinandansingla.co/](https://abhinandansingla.co/)
 
 - 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation ,Blockchain.**
 
