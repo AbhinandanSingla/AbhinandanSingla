@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinandansingla" alt="abhinandansingla" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working on **Large Language Models**
 
-- 🌱 I’m currently learning **Ethereum and IC**
+- 🌱 I’m currently learning **OpenAi and Falcons etc**
 
 - 👯 I’m looking to collaborate on **any great idea!**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhinandansingla.co/](https://abhinandansingla.co/)
 
-- 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation ,Blockchain.**
+- 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation, Blockchain, and large language models, Ml/DL.**
 
 - 📫 How to reach me **abhinandansingla48@gmail.com**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@abhinan48775956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhinan48775956" height="30" width="40" /></a>
+<a href="https://twitter.com/@D_Singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@D_Singla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinandansingla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinandansingla" height="30" width="40" /></a>
 <a href="https://instagram.com/_abhi_singla_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi_singla_" height="30" width="40" /></a>
 </p>
