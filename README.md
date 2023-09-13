@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help **to design UI,UX for my projects**
 
-- 👨‍💻 All of my projects are available at [https://abhinandansingla.co/](https://abhinandansingla.co/)
+- 👨‍💻 All of my projects are available at [https://abhinandansingla.tech/](https://abhinandansingla.tech/)
 
-- 💬 Ask me about **flutter, WebDev, Photoshop, 3d Modeling and Animation, Blockchain, and large language models, Ml/DL.**
+- 💬 Ask me about **flutter, WebDev, Photoshop, 3D Modeling and Animation, Blockchain, and large language models, Ml/DL.**
 
 - 📫 How to reach me **abhinandansingla48@gmail.com**
 
-- 📄 Know about my experiences I am a selftaught developer
+- 📄 Know about my experiences I am a self-taught developer
 
 - ⚡ Fun fact **learning how to code is slowly becoming like learning how to write.**
 
